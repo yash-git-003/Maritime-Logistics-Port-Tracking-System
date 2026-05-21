@@ -31,21 +31,12 @@ A backend-based Maritime Logistics & Port Tracking System developed using Java, 
 ## 📂 Project Structure
 
 src/
-   |
-   └── - ProjectJDBC/
-          |
-          ├── - DBConnection.java
-          |          
+   └── ProjectJDBC/
+          ├── DBConnection.java       
           ├── Ship.java
-          |
           ├── Port.java
-          |
           ├── Voyage.java
-          |
           ├── ShipDAO.java
-          |
           ├── PortDAO.java
-          |
           ├── VoyageDAO.java
-          |
           └── Main.java
