@@ -32,9 +32,9 @@ A backend-based Maritime Logistics & Port Tracking System developed using Java, 
 
 src/
    |
-   └── ProjectJDBC/
+   └── - ProjectJDBC/
           |
-          ├── DBConnection.java
+          ├── - DBConnection.java
           |          
           ├── Ship.java
           |
